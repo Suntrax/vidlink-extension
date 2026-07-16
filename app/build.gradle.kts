@@ -13,11 +13,11 @@ if (keystorePropertiesFile.exists()) {
 }
 
 android {
-    namespace = "com.blissless.chizuki_extension_template"
+    namespace = "com.blissless.vidlink"
     compileSdk = 37
 
     defaultConfig {
-        applicationId = "com.blissless.chizuki_extension_template"
+        applicationId = "com.blissless.vidlink"
         minSdk = 26
         targetSdk = 37
         versionCode = 1
